@@ -1,0 +1,26 @@
+{
+  "name": "pbr",
+  "version": "1.0.0",
+  "description": "Tapster PBR",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tapsterbot/pbr.git"
+  },
+  "keywords": [
+    "Tapster",
+    "Robot"
+  ],
+  "author": "Jason R. Huggins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tapsterbot/pbr/issues"
+  },
+  "homepage": "https://github.com/tapsterbot/pbr#readme"
+  "dependencies": {
+    "johnny-five": "*"
+  }
+}
