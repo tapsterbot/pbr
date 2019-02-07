@@ -1,7 +1,7 @@
 # Tapster PBR
 Controller software library for the Tapster PBR robot
 
-<img src="img/tapster-pbr-medium.jpg" width="500" align="middle">
+<a href="https://youtu.be/wskrWO_RAH0"><img src="img/tapster-pbr-medium.jpg" width="500"></a>
 
 
 
