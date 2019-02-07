@@ -11,7 +11,7 @@ _Run in a terminal window:_
 
 ## Run:
 
-Run in a terminal window:
+_Run in a terminal window:_
 
     node bot.js
 
@@ -41,4 +41,4 @@ Now try running a command:
 
     >> power.tap()
     
-(At this point, one of the servos on your PBR should quickly toggle back and forth.)
+_At this point, one of the servos on your PBR should quickly toggle back and forth._
