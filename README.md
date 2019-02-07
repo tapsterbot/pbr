@@ -25,7 +25,7 @@ If everything is working, this is what the terminal window will look like:
 
 ## Try Demo Code:
 
-After bot.js is running and you see the ">>" prompt, try pasting some sample code from pbr.js, then hit Enter or Return
+After bot.js is running and you see the `>>` prompt, try pasting some sample code from pbr.js, then hit Enter or Return
 
     >> power = {
     ...   tap: function() { s1.to(70); setTimeout( () => s1.to(90), 200) },
