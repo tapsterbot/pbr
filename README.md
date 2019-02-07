@@ -10,7 +10,7 @@ Controller software library for the Tapster PBR robot
 _Run in a terminal window:_
 
     git clone https://github.com/tapsterbot/pbr.git
-    cd pbr
+    cd pbr/software
     npm install
 
 ## Run:
