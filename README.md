@@ -1,6 +1,10 @@
 # Tapster PBR
 Controller software library for the Tapster PBR robot
 
+<img src="img/tapster-pbr-medium.jpg" width="500" align="middle">
+
+
+
 ## Install:
 
 _Run in a terminal window:_
