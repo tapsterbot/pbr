@@ -1,6 +1,6 @@
 five = require("johnny-five") 
 board = new five.Board({
-  debug: false
+  debug: true
 })
 
 board.on("ready", function() {
