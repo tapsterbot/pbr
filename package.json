@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/tapsterbot/pbr/issues"
   },
-  "homepage": "https://github.com/tapsterbot/pbr#readme"
+  "homepage": "https://github.com/tapsterbot/pbr#readme",
   "dependencies": {
     "johnny-five": "*"
   }
